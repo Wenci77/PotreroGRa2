@@ -1,0 +1,19 @@
+#titulos{
+    font-size: 42px;
+    
+}
+
+.titulosSecundarios{
+    font-size: 30px;
+    color:cadetblue;
+}
+
+ol, ul{
+    font-size: 21px;
+    color: chocolate;
+}
+
+p , a{
+    font-size: 21px;
+    color:brown;
+}
