@@ -1,18 +1,93 @@
+body{
+    background-color:bisque;
+    border: 1px solid black;
+    margin: 50px;
+    padding: 40px;
+}
+
 #titulos{
     font-size: 42px;
+    font-family: Verdana;
+    border: none;
+    margin: 50px;
+    padding: none;
 }
 
 .titulosSecundarios{
     font-size: 30px;
-    color:cadetblue;
+    font-family: Arial;
+    color:brown;
+    border: none;
+    margin: 50px;
+    padding: none;
 }
 
 ol, ul{
     font-size: 21px;
     color: chocolate;
+    font-family: 'Lucida Sans';
+    border: 7px dashed gold;
+    margin: 50px;
+    padding: 40px;
 }
 
-p , a{
+p {
     font-size: 21px;
+    font-family: 'Trebuchet MS';
+    color:brown; 
+    border: 7px dashed gold;
+    padding: 50px;
+    margin-left: 50px;
+    background-color:bisque;
+    
+}
+
+a{
+    font-size: 21px;
+    font-family: 'Trebuchet MS';
     color:brown;
+    border: none;
+    padding: none;
+    margin-left: 50px;  
+}
+
+.fotos{
+    border: 1px solid black;
+    padding: none;
+    margin-left: 50px;
+}
+
+iframe{
+    border: 2px solid black;
+    padding: none;
+    margin-left: 50px; 
+}
+
+.comida1{
+    border: 1px black solid;
+    padding: 10px 50px 50px 10px;
+    margin-bottom: 20px;
+    background-color: burlywood;
+}
+
+.comida2{
+    border: 1px black solid;
+    padding: 10px 50px 50px 10px;
+    margin-bottom: 30px;
+    background-color: burlywood;
+    
+}
+
+.enlaces{
+    border: 1px solid black;
+    border: 5px solid gold;
+    padding: 25px;
+    margin-left: 50px;
+    background-color:bisque;
+}
+
+.cuerpo{
+    border: none;
+    padding: 20px;
+    margin: none;
 }
